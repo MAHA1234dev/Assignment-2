@@ -1,0 +1,80 @@
+div{
+    background-color: rosybrown;
+    height: 400px;
+    width: 900px;
+    text-align: center;
+    background-image: linear-gradient(to right, red,yellow);
+    border-radius: 10px;
+}
+a:hover
+{
+    background-color: salmon;
+    margin-right: 10px;
+  font-size: x-large;
+  width: 100px;
+  padding-left: 50px ;
+  padding-right: 50px;
+}
+#a1
+{
+ position: absolute;
+ top: 200px;
+ left: 30px;
+ 
+ height: 100px;
+ width: 150px;
+    
+}
+#a1
+{
+    position: absolute;
+    top: 325px;
+    left: 20px;
+    height: 75px;
+    width: 150px;
+}
+#a2
+{
+ position: absolute;
+ top: 325px;
+ left: 180px;
+ 
+ height: 75px;
+ width: 150px;
+}
+#a3
+{
+    position: absolute;
+    top: 325px;
+    left: 340px;
+    height: 75px;
+    width: 150px;
+}
+#a4
+{
+    position: absolute;
+    top: 325px;
+    left: 500px;
+    height: 75px;
+    width: 150px;
+}
+img{
+    width : 500px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+    left: 30px;
+}
+#div1
+{
+    display: inline;
+    justify-content: space-around;
+    margin-left: 100px;
+   background-color: blue;
+}
+#img3
+{
+    margin-left: 510px;
+    height: 200px;
+    width: 350px;
+}
